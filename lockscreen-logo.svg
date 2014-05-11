@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="lockscreen-logo.svg"
+   inkscape:export-filename="/mnt/src/android/LockScreen/locksceen-logo-48.png"
+   inkscape:export-xdpi="216"
+   inkscape:export-ydpi="216">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.55294118"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="10.734609"
+     inkscape:cy="-2.3127304"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showborder="true"
+     inkscape:window-width="1362"
+     inkscape:window-height="748"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="8"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.125px"
+       spacingy="0.125px"
+       originx="6px"
+       originy="3.9999826px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6,-1036.3622)">
+    <path
+       style="fill:#336699;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 4,1037.3622 c -3.3137085,0 -6,2.6863 -6,6 l 0,2 -1,0 0,10 14,0 0,-10 -1,0 0,-2 c 0,-3.3137 -2.686292,-6 -6,-6 z m 0,2 c 2.209139,0 4,1.7909 4,4 l 0,2 -8,0 0,-2 c 0,-2.2091 1.790861,-4 4,-4 z"
+       id="rect3838"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccccccssssccss" />
+    <path
+       d="m 7.4292877,1049.7634 c -4.99e-5,0 1.0836094,-1.9771 1.0836094,-1.9771 0.057312,-0.1045 0.018995,-0.2358 -0.085506,-0.2932 -0.1045654,-0.057 -0.2358715,-0.018 -0.2932928,0.085 l -1.0950305,1.998 c -0.9191843,-0.4071 -1.9500177,-0.6352 -3.0390682,-0.6352 -1.088951,0 -2.1198339,0.2281 -3.0390101,0.6352 l -1.09503894,-1.998 c -0.0573962,-0.1047 -0.18877693,-0.143 -0.29323462,-0.085 -0.1045655,0.058 -0.14283514,0.1887 -0.0855633,0.2932 0,0 1.08366754,1.9772 1.08361778,1.9771 C -1.5605426,1050.8641 -3,1052.9622 -3,1055.3622 h 14 c 5e-5,-2.4 -1.4394574,-4.4981 -3.5707123,-5.5988 z m -6.6154706,3.0613 c -0.32391502,0 -0.58647753,-0.2623 -0.58647753,-0.5866 0,-0.3235 0.26256251,-0.5862 0.58647753,-0.5862 0.3234755,0 0.5863862,0.2627 0.5863862,0.5862 0,0.3243 -0.2629107,0.5866 -0.5863862,0.5866 z m 6.3732123,0 c -0.3239233,0 -0.5866268,-0.2623 -0.5866268,-0.5866 0,-0.3235 0.2627035,-0.5862 0.5866268,-0.5862 0.3234257,0 0.5863282,0.2627 0.5863282,0.5862 0,0.3243 -0.2628528,0.5866 -0.5863282,0.5866 z"
+       id="path3189"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>
